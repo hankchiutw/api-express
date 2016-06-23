@@ -1,0 +1,21 @@
+{
+  "name": "api-express",
+  "version": "0.1.0",
+  "description": "Handy libraries to build RESTful API controllers in express.js from ES6 generator callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "RESTful",
+    "es6",
+    "generator"
+  ],
+  "author": "Hank",
+  "license": "ISC",
+  "dependencies": {
+    "co-nextware": "^1.0.1"
+  }
+}
